@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Tony Long",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "tonylong@hawaii.edu",
+    "phone": "808-428-0523",
+    "website": "https://tonylong1314520.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2022.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "1245 Maunakea St. Apt 3109",
+      "postalCode": "96817",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "tonylong1314520",
+        "url": "http://github.com/tonylong1314520"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Tony Long",
+        "url": "http://linkedin.com/in/tony-long-0bab731b6/"
       },
       {
         "network": "twitter",
