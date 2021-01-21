@@ -19,12 +19,13 @@ An arithmetic logic unit (ALU) is a combinational digital circuit that performs 
 My ALU takes in two 3-bit inputs in binary and performs different calculations based on what switches you set it to. Some operations it
 can perform are adding with a carry, multiply input by 2, and xor operations.
 
-To illustrate what it does:
+Here are some illustrations on what it does!
 
-Input1    Input2    Selector
-001 = 1   010 = 2   00 = +   --> 1 + 2 = 3 --> 011
-111 = 7   ----      01 = *   --> 7 * 2 = 14 --> 1110
-111 = 7   010 = 2   10 = xor --> 101
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/adder.png">
+  <img class="ui image" src="../images/multiply.jpg">
+  <img class="ui image" src="../images/xor.jpg">
+</div>
 
 Check it out here! -->
 Source: <a href="https://https://github.com/tonylong1314520/Simple-ALU-project"><i class="large github icon "></i>tony/arithmetic-logic-unit</a>
