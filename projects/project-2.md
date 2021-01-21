@@ -19,4 +19,4 @@ This is a hexadecimal sudoku solver that I first made in ICS-211 for a project a
 
 This project helped me understand recursive functions better and how to apply recursion to complex problems I encounter in the future.
  
-Source: <a href="https://github.com/tonylong1314520/sudoku-solver"><i class="large github icon"></i>Sudoku/sudoku-solver</a>
+Source: <a href="https://github.com/tonylong1314520/sudoku-solver"><i class="large github icon"></i>tony/sudoku-solver</a>
