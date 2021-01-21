@@ -23,10 +23,9 @@ Here are some illustrations on what it does!
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/adder.png">
-  <img class="ui image" src="../images/multiply.jpg">
   <img class="ui image" src="../images/xor.jpg">
 </div>
 
 Check it out here! -->
-Source: <a href="https://https://github.com/tonylong1314520/Simple-ALU-project"><i class="large github icon "></i>tony/arithmetic-logic-unit</a>
+Source: <a href="https://github.com/tonylong1314520/Simple-ALU-project"><i class="large github icon "></i>tony/arithmetic-logic-unit</a>
 
