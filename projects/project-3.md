@@ -2,60 +2,30 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+title: Arithmetic Logic Unit (ALU)
+permalink: projects/ALU
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2020-05-12
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - VHDL
+  - Verilog
+  - LogicWorks
+summary: I developed a simple ALU that can take in two 3-bit inputs and perform different types of calculations.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/ALU.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+An arithmetic logic unit (ALU) is a combinational digital circuit that performs arithmetic and bitwise operations on integer binary numbers.
+My ALU takes in two 3-bit inputs in binary and performs different calculations based on what switches you set it to. Some operations it
+can perform are adding with a carry, multiply input by 2, and xor operations.
 
-To give you a flavor of the game, here is an excerpt from one run:
+To illustrate what it does:
 
-<hr>
+Input1    Input2    Selector
+001 = 1   010 = 2   00 = +   --> 1 + 2 = 3 --> 011
+111 = 7   ----      01 = *   --> 7 * 2 = 14 --> 1110
+111 = 7   010 = 2   10 = xor --> 101
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Check it out in the link below!
+Source: <a href="https://https://github.com/tonylong1314520/Simple-ALU-project"><i class="large github icon "></i>tony/arithmetic-logic-unit</a>
 
