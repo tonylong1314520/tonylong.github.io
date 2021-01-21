@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/ALU.png
 title: Arithmetic Logic Unit (ALU)
 permalink: projects/ALU
 # All dates must be YYYY-MM-DD format!
