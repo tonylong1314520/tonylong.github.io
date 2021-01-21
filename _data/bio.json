@@ -63,8 +63,7 @@
         "Python",
         "Java",
         "Javascript",
-        "HTML/CSS",
-        ""
+        "HTML/CSS"
       ]
     },
     {
@@ -74,15 +73,14 @@
         "Windows",
         "Git/Github",
         "Unix",
-        "Eclipse",
-        ""
+        "Eclipse"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2022",
+      "area": "Computer Science (expected Spring, 2022)",
       "studyType": "B.S.",
       "startDate": "2018-08-20",
       "endDate": "Present",
@@ -127,7 +125,7 @@
       "endDate": "2018-05-15",
       "summary": "Managed club funds and fundraisers",
       "highlights": [
-        "Managed a fundraiser raising approx. $5000 for the club.",
+        "Managed a fundraiser for the club.",
         "Volunteered approx. 200 cumulative hours helping at various events such as clean ups and parades.",
         "Manage and report club funds to advisor."
       ]
