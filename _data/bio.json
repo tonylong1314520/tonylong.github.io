@@ -68,7 +68,9 @@
         "Python",
         "Java",
         "Javascript",
-        "HTML/CSS"
+        "HTML/CSS",
+        "Meteor",
+        "Semantic UI"
       ]
     },
     {
@@ -78,7 +80,18 @@
         "Windows",
         "Git/Github",
         "Unix",
-        "Eclipse"
+        "Eclipse",
+        "Logic Works(v5)",
+        "Intellij Idea"
+      ]
+    },
+    {
+      "name": "Applications",
+      "level": "",
+      "keywords": [
+        "Microsoft Excel",
+        "Adobe Dreamweaver",
+        "Adobe Premier Pro"
       ]
     }
   ],
