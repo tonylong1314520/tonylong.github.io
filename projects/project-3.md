@@ -26,6 +26,6 @@ Input1    Input2    Selector
 111 = 7   ----      01 = *   --> 7 * 2 = 14 --> 1110
 111 = 7   010 = 2   10 = xor --> 101
 
-Check it out in the link below!
+Check it out here! -->
 Source: <a href="https://https://github.com/tonylong1314520/Simple-ALU-project"><i class="large github icon "></i>tony/arithmetic-logic-unit</a>
 
