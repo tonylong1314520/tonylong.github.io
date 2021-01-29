@@ -24,16 +24,6 @@
         "network": "linkedin",
         "username": "Tony Long",
         "url": "http://linkedin.com/in/tony-long-0bab731b6/"
-      },
-      {
-        "network": "twitter",
-        "username": "",
-        "url": ""
-      },
-      {
-        "network": "instagram",
-        "username": "",
-        "url": ""
       }
     ]
   },
@@ -130,7 +120,8 @@
       "highlights": [
         "Help manage and clean computer labs.",
         "Assist with managing company websites and run periodic ada checks.",
-        "Help create and upload Ted-Ed lessons of various professors for various subjects."
+        "Help create and upload Ted-Ed lessons of various professors for various subjects.",
+        "Mans the online IT help desk for official CLT website."
       ]
     }
   ],
