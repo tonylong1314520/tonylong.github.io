@@ -20,5 +20,5 @@ This is one of the very first projects I ever did regarding programming. Back in
 This is my very first project for my web development class in high school. I utilized html, css and javascript to try and create an interactive hotel website which is able to take a sample credit card information and output a receipt. It also utilizes windows.alert function, which is a bit archaic, but nonetheless effective in notifying the user to know an action is done.
  
 You an check it out here -->
-Source: <a href="https://github.com/tonylong1314520/hotel"><i class="large github icon"></i>tony/hotel</a>
+Source: <a href="https://github.com/tonylong1314520/Post-Prefix-Calculator"><i class="large github icon"></i>tony/post-prefix-calculator</a>
 
