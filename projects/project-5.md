@@ -25,6 +25,7 @@ need of an html page.
 Overall, this project was a very fun and eye opening learning experience!
  
 You an check out my Semantic webpage here -->
-Source: <a href="https://github.com/tonylong1314520/laulima"><i class="large github icon"></i>tony/semantic</a> \n
+Source: <a href="https://github.com/tonylong1314520/laulima"><i class="large github icon"></i>tony/semantic</a> 
+
 You an check out my React + Semantic webpage here -->
 Source: <a href="https://github.com/tonylong1314520/laulima-react"><i class="large github icon"></i>tony/react</a>
