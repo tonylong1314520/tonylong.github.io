@@ -17,8 +17,7 @@ summary: A short project I made to test out semantic ui by remaking my schools w
 <img class="ui medium right floated rounded image" src="../images/semantic.png">
 
 After learning about semantic ui and applying it in small test cases, I decided to try and remake some websites to better understand how powerful semantic is. Semantic was the first framework I learned and it was extremely eye opening. 
-Before semantic, I was hard coding webpages with basic html/css/javascript and it was extremely hard to make a professional looking website. In this project I opted to remake
-https://laulima.hawaii.edu/lum/fp/login.php.
+Before semantic, I was hard coding webpages with basic html/css/javascript and it was extremely hard to make a professional looking website. In this project I opted to remake <a href="https://laulima.hawaii.edu/lum/fp/login.php">laulima</a>.
 After learning about semantic I started learning how to use react. React was very intimidating at first but after combining react with semantic I started to understand how helpful 
 the react module can be. It simplified webpages, instead of using classes, we would import the element instead. It was also really cool how you can build a webpage without the 
 need of an html page.
