@@ -21,6 +21,8 @@ Before semantic, I was hard coding webpages with basic html/css/javascript and i
 After learning about semantic I started learning how to use react. React was very intimidating at first but after combining react with semantic I started to understand how helpful 
 the react module can be. It simplified webpages, instead of using classes, we would import the element instead. It was also really cool how you can build a webpage without the 
 need of an html page.
+Moving on from react, my next lesson was using meteor which combined both semantic ui and react together to create a more interactive and simple webpage. Meteor really felt like 
+the glue that binds it all together. At first meteor was difficult to wrap my mind around, but after hours of tutorials and reimplementing my webpage, I finally got it down.
 Overall, this project was a very fun and eye opening learning experience!
  
 You an check out my Semantic webpage here -->
@@ -28,3 +30,6 @@ Source: <a href="https://github.com/tonylong1314520/laulima"><i class="large git
 
 You an check out my React + Semantic webpage here -->
 Source: <a href="https://github.com/tonylong1314520/laulima-react"><i class="large github icon"></i>tony/react</a>
+
+You an check out my Meteor + React + Semantic webpage here -->
+Source: <a href="https://github.com/tonylong1314520/laulima-meteor"><i class="large github icon"></i>tony/meteor</a>
