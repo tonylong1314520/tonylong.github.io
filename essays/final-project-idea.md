@@ -32,9 +32,9 @@ Some of these pages include:
 ## Use Case Ideas
 The completed page might not need to implement all the above pages, but the end should be:
 
-1) Upon opening website, shows the information, review page, community events and login.
-2) User able to sign in or create an account.
-3) Admin able to login and edit posts.
+1) Upon opening website, shows the information, review page, community events and login. <br>
+2) User able to sign in or create an account. <br>
+3) Admin able to login and edit posts.<br>
 
 ## Beyond the Basics
 Some more advanced ideas include:
