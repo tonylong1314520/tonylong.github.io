@@ -44,7 +44,7 @@
       ]
     },
     {
-      "name": "Game Development",
+      "name": "Front-end Development",
       "keywords": [
       ]
     }
@@ -60,7 +60,8 @@
         "Javascript",
         "HTML/CSS",
         "Meteor",
-        "Semantic UI"
+        "Semantic UI",
+        "React"
       ]
     },
     {
@@ -73,7 +74,8 @@
         "Eclipse",
         "Logic Works(v5)",
         "Intellij Idea",
-        "PyCharm Community"
+        "PyCharm Community",
+        "BitBucket"
       ]
     },
     {
@@ -93,7 +95,7 @@
       "studyType": "B.S.",
       "startDate": "2018-08-20",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.0/3.64",
       "courses": [ 
       ]
     }
@@ -113,7 +115,7 @@
     },
     {
       "company": "Center for Language & Technology",
-      "position": "Computer Lab Monitor and Student Assistant",
+      "position": "Student Assistant",
       "website": "",
       "startDate": "2019-08-16",
       "endDate": "Present",
@@ -123,6 +125,19 @@
         "Assist with managing company websites and run periodic ada checks.",
         "Help create and upload Ted-Ed lessons of various professors for various subjects.",
         "Mans the online IT help desk for official CLT website."
+      ]
+    },
+    {
+      "company": "YouRok Corp.",
+      "position": "Web Developer - Intern",
+      "website": "",
+      "startDate": "2021-04-21",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Maintain, expand and integrate data from various back-end services and databases.",
+        "Design, code, and debug applications specifically in ReactJs",
+        "Create website layout/user interfaces with standard HTML/CSS practices",
       ]
     }
   ],
