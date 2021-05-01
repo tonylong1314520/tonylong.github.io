@@ -20,6 +20,7 @@ I contributed to creating the mock ups for the landing page, class review page, 
 ## My Experiences
 Personally, this project helped me grow as a team player. Every class that I had taken before this that involved programming, it was mostly doing it solo, but after doing this project with my other talented group members, it helped me realize that working in a group is a valuable experience. It helped me grow as an aspiring web developer and gave me a taste of what the real world experience would be like. This project also helped me understand github intimately, such as creating organizations, homepages, project management and coding practices. If you want to check out me and my group memebers application, click the links below.
 <br>
+<br>
 Click <a href="https://rate-my-classes-manoa.github.io/">here</a> for the full description of the application.
 <br>
 Click <a href="https://ratemyclassesmanoa.club/#/">here</a> for a live deployment of the application.
