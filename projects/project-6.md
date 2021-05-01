@@ -13,6 +13,7 @@ labels:
   - Group
 summary: An application that me and my group members created to demonstrate our knowledge of teamwork, project management, design patterns and full-stack experience.
 ---
+<img class="ui medium right floated rounded image" src="../images/group.jpg">
 
 Created an application to replicate ratemyprofessors while improving the experience for University of Hawaii students.
 ## My Contributions
