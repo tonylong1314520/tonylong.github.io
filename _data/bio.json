@@ -43,11 +43,6 @@
       "keywords": [
       ]
     },
-    {
-      "name": "Front-end Development",
-      "keywords": [
-      ]
-    }
   ],
   "skills": [
     {
@@ -140,7 +135,20 @@
         "Design, code, and debug applications specifically in ReactJs",
         "Create website layout/user interfaces with standard HTML/CSS practices",
       ]
-    }
+    },
+    {
+      "company": "Decision Research Corp.",
+      "position": "Web Development Intern",
+      "website": "",
+      "startDate": "2021-06-21",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Maintain, expand and integrate data from various back-end services and databases.",
+        "Design and implement code for projects based on client specifications",
+        "Work under mentorship of senior staff",
+      ]
+    },
   ],
   "volunteer": [
     {
