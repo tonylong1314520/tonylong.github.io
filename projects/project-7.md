@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/AENEAS.png
+image: images/AENEAS.PNG
 title: AENEAS Project
 permalink: projects/AENEAS
 # All dates must be YYYY-MM-DD format!
