@@ -25,7 +25,4 @@ Personally, this project helped me grow as a team player. Every class that I had
 Click <a href="https://rate-my-classes-manoa.github.io/">here</a> for the full description of the application.
 <br>
 
-Click <a href="https://ratemyclassesmanoa.club/#/">here</a> for a live deployment of the application.
-<br>
-
 Source: <a href="https://github.com/Rate-My-Classes-Manoa/rate-my-classes"><i class="large github icon"></i>tony/rate-my-classes</a>
