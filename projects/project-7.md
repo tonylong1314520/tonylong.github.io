@@ -14,7 +14,7 @@ labels:
 summary: A medium sized web application created by me and my group members to help a nonprofit manage their medicine supply.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/semantic.png">
+<img class="ui medium right floated rounded image" src="../images/AENEAS.PNG">
 
 Me and my group members were tasked to create a web application to help Hawaii's H.O.M.E Project, a nonprofit that aims to help improve quality and access to healthcare for our 
 local community. The web application was created to help H.O.M.E manage their supplies, keep track of where different medications are kept, and what was distributed to patients.
